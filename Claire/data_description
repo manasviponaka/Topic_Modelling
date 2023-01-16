@@ -1,7 +1,0 @@
-The dataset in this project is from the Kaggle open source, A Million News Headlines.
-
-The dataset contains data of news headlines published over a period of nineteen years.
-
-Sourced from the reputable Australian news source ABC (Australian Broadcasting Corporation)
-Start Date: 2003-02-19 ; End Date: 2021-12-31
-The dataset is too large to train the model (1213004 news headlines), which need more than 10h, so I take the news from 2019.1.1 to 2021.12.31.
