@@ -1,1 +1,6 @@
 dataset
+A Million News Headlines is the dataset that contains data of news headlines published over a period of nineteen years from early-2003 to end-2021 with a more granular focus on Australia. This dataset includes the entire corpus of articles published by the abcnews website (1213004 news headlines) and a good focus on international news, which is a summarised historical record of noteworthy events in the globe.
+
+Digging into the news headlines, we can get all the important episodes shaping the last decade and how they evolved over time. Such as: covid epidemic, Afghanistan war, financial crisis, multiple elections, ecological disasters, terrorism, famous people, criminal activity etc. 
+
+The dataset is too large to process at once, so we analyze the news from 2017 to 2022.
